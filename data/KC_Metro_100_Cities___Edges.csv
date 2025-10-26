@@ -1,0 +1,103 @@
+from,to,road
+"Kansas City, MO","Kansas City, KS",I-70
+"Kansas City, MO","Independence, MO",I-70
+"Kansas City, MO","Overland Park, KS",I-35
+"Independence, MO","Kansas City, MO",I-70
+"Raytown, MO","Kansas City, MO",US-50
+"Lee's Summit, MO","Kansas City, MO",I-470
+"Blue Springs, MO","Kansas City, MO",I-70
+"Grain Valley, MO","Kansas City, MO",I-70
+"Oak Grove, MO","Kansas City, MO",I-70
+"Buckner, MO","Kansas City, MO",MO-24
+"Sibley, MO","Kansas City, MO",MO-24
+"Levasy, MO","Kansas City, MO",US-24
+"Napoleon, MO","Kansas City, MO",US-24
+"Lexington, MO","Kansas City, MO",I-70
+"Odessa, MO","Kansas City, MO",I-70
+"Bates City, MO","Kansas City, MO",I-70
+"Sugar Creek, MO","Kansas City, MO",US-24
+"Lone Jack, MO","Kansas City, MO",US-50
+"Greenwood, MO","Kansas City, MO",MO-150
+"Lake Winnebago, MO","Kansas City, MO",MO-291
+"Lake Lotawana, MO","Kansas City, MO",MO-291
+"Lake Tapawingo, MO","Kansas City, MO",I-70
+"Belton, MO","Kansas City, MO",I-49/US-71
+"Raymore, MO","Kansas City, MO",I-49/US-71
+"Grandview, MO","Kansas City, MO",US-71/I-49
+"Harrisonville, MO","Kansas City, MO",I-49
+"Peculiar, MO","Kansas City, MO",I-49
+"Pleasant Hill, MO","Kansas City, MO",MO-7
+"Holden, MO","Kansas City, MO",US-50
+"Warrensburg, MO","Kansas City, MO",US-50
+"Liberty, MO","Kansas City, MO",I-35
+"Gladstone, MO","Kansas City, MO",US-169
+"Claycomo, MO","Kansas City, MO",I-435
+"Pleasant Valley, MO","Kansas City, MO",I-35
+"Avondale, MO","Kansas City, MO",MO-9
+"North Kansas City, MO","Kansas City, MO",Heart of America Bridge/US-169
+"Parkville, MO","Kansas City, MO",MO-9
+"Riverside, MO","Kansas City, MO",MO-9
+"Weatherby Lake, MO","Kansas City, MO",MO-45
+"Lake Waukomis, MO","Kansas City, MO",NW Waukomis Dr → MO-9
+"Ferrelview, MO","Kansas City, MO",I-29
+"Platte City, MO","Kansas City, MO",I-29
+"Weston, MO","Kansas City, MO",MO-45
+"Tracy, MO","Kansas City, MO",I-29
+"Camden Point, MO","Kansas City, MO",I-29
+"Dearborn, MO","Kansas City, MO",I-29
+"Parkville (Zona Rosa area), MO","Kansas City, MO",I-29
+"Houston Lake, MO","Kansas City, MO",MO-9
+"Northmoor, MO","Kansas City, MO",MO-9
+"Oaks, MO","Kansas City, MO",US-169
+"Oakwood Park, MO","Kansas City, MO",US-169
+"Glenaire, MO","Kansas City, MO",I-35
+"Randolph, MO","Kansas City, MO",US-69
+"Kearney, MO","Kansas City, MO",I-35
+"Smithville, MO","Kansas City, MO",US-169
+"Excelsior Springs, MO","Kansas City, MO",MO-10
+"Orrick, MO","Kansas City, MO",MO-210
+"Richmond, MO","Kansas City, MO",MO-10
+"Lawson, MO","Kansas City, MO",MO-92 → I-35
+"Holt, MO","Kansas City, MO",I-35
+"Lathrop, MO","Kansas City, MO",I-35
+"Plattsburg, MO","Kansas City, MO",MO-116 → US-169
+"Gower, MO","Kansas City, MO",US-169
+"Cameron, MO","Kansas City, MO",I-35
+"St. Joseph, MO","Kansas City, MO",I-29
+"Kansas City, KS","Kansas City, MO",I-70
+"Bonner Springs, KS","Kansas City, MO",I-70
+"Edwardsville, KS","Kansas City, MO",I-70
+"Basehor, KS","Kansas City, MO",KS-7/K-7
+"Tonganoxie, KS","Kansas City, MO",US-24/40
+"Lansing, KS","Kansas City, MO",US-73/K-7
+"Leavenworth, KS","Kansas City, MO",US-73/K-7
+"Shawnee, KS","Kansas City, MO",I-35
+"Lenexa, KS","Kansas City, MO",I-35
+"Overland Park, KS","Kansas City, MO",US-69
+"Olathe, KS","Kansas City, MO",I-35
+"Gardner, KS","Kansas City, MO",I-35
+"Spring Hill, KS","Kansas City, MO",US-169
+"Edgerton, KS","Kansas City, MO",I-35
+"De Soto, KS","Kansas City, MO",K-10
+"Eudora, KS","Kansas City, MO",K-10
+"Lawrence, KS","Kansas City, MO",I-70
+"Mission, KS","Kansas City, MO",US-56
+"Roeland Park, KS","Kansas City, MO",US-169
+"Merriam, KS","Kansas City, MO",I-35
+"Mission Hills, KS","Kansas City, MO",State Line Rd
+"Mission Woods, KS","Kansas City, MO",Shawnee Mission Pkwy
+"Westwood, KS","Kansas City, MO",Rainbow Blvd
+"Westwood Hills, KS","Kansas City, MO",Shawnee Mission Pkwy
+"Fairway, KS","Kansas City, MO",Shawnee Mission Pkwy
+"Prairie Village, KS","Kansas City, MO",Mission Rd
+"Leawood, KS","Kansas City, MO",State Line Rd
+"Holmes Park (Leawood area), KS","Kansas City, MO",US-69
+"Baldwin City, KS","Kansas City, MO",US-56
+"Ottawa, KS","Kansas City, MO",I-35
+"Wellsville, KS","Kansas City, MO",I-35
+"Paola, KS","Kansas City, MO",US-169
+"Osawatomie, KS","Kansas City, MO",US-169
+"Louisburg, KS","Kansas City, MO",US-69
+"Basehor-Linwood area, KS","Kansas City, MO",US-24/40
+"Parkville South (unincorporated), MO","Kansas City, MO",MO-9
+"Riverside North (uninc.), MO","Kansas City, MO",MO-9
