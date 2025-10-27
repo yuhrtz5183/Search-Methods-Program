@@ -117,6 +117,7 @@ def iddfs_steps(G: nx.Graph, start: str, goal: str, max_depth: int = 100) -> Ite
 
     found = False
     for depth in range(max_depth):
+        # Each depth-limited search gets fresh data structures
         parents = {start: None}
         explored = set()
         g_cost = {start: 0.0}
@@ -140,6 +141,8 @@ def greedy_steps(G: nx.Graph, start: str, goal: str, coords, hfun) -> Iterable[S
             yield Step("Greedy", current, fr_view, set(explored), dict(parents), h=dict(h), event="goal")
             return
         for n in G.neighbors(current):
+            if n in explored:
+                continue
             if n not in parents:
                 parents[n] = current
                 h[n] = hfun(n, goal, coords)
@@ -165,6 +168,8 @@ def astar_steps(G: nx.Graph, start: str, goal: str, coords, hfun) -> Iterable[St
             yield Step("A*", current, fr_view, set(explored), dict(parents), dict(g), dict(h), dict(f), event="goal")
             return
         for n in G.neighbors(current):
+            if n in explored:
+                continue
             tentative_g = g[current] + G[current][n]['weight']
             if n not in g or tentative_g < g[n]:
                 parents[n] = current
